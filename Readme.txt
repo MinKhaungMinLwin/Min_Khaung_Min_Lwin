@@ -6,4 +6,4 @@ Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
 Author: Min Khaung Min Lwin
 Author URL: https://minkhaungminlwin.github.io/Min_Khaung_Min_Lwin/
 
-This Theme was thanks to DevFolio, you can go find the thems to the link below
+This Theme was thanks to DevFolio.
